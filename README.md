@@ -1,4 +1,4 @@
-# Repositorio de API_RESTFUL_AppJava
+# Repositorio de API_RESTFULL_AppJava
 **Instalacion :**
 - Contar con un JDK de Java Instalado.
 - Contar con el SDK Netbeans 8.2 o cualquier version superior.
